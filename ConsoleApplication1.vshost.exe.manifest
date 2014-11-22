@@ -42,26 +42,62 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ClassLibrary1.dll" size="60416">
-      <assemblyIdentity name="ClassLibrary1" version="1.0.5294.35569" language="neutral" processorArchitecture="x86" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ClassLibrary1.dll" size="60928">
+      <assemblyIdentity name="ClassLibrary1" version="1.0.5298.15941" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>xaW8JbqHBO7KEa7kCJihy5WQWKIPGCmfbsGmjz8ef9E=</dsig:DigestValue>
+        <dsig:DigestValue>oeaG2Yu76naMOxCwt24uYGotlaTxpSYpKhvbTanz0Ac=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ConsoleApplication1.exe" size="5120">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ConsoleApplication1.exe" size="5632">
       <assemblyIdentity name="ConsoleApplication1" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>x3SS8kYSEueLUMcI7+Ls08VFT5btLHLlf8Q2PSrTse8=</dsig:DigestValue>
+        <dsig:DigestValue>ZOHe6FsG2dWKlPazL+Z/uI0xXlq5G+pb2o0hwXdFo5Y=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MongoDB.Bson.dll" size="382976">
+      <assemblyIdentity name="MongoDB.Bson" version="1.9.2.235" publicKeyToken="F686731CFB9CC103" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>HCXPA8lVJsUg/0tyyMTs25CKyVwG7IjS4KteM2m2svQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MongoDB.Driver.dll" size="559616">
+      <assemblyIdentity name="MongoDB.Driver" version="1.9.2.235" publicKeyToken="F686731CFB9CC103" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>1EgRFfFNaTyljK961+cOXRVIrPPwqSGX9OY73JBUbKo=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Newtonsoft.Json.dll" size="500224">
+      <assemblyIdentity name="Newtonsoft.Json" version="6.0.0.0" publicKeyToken="30AD4FE6B2A6AEED" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>Aw5znLpgw7RgTuFXRJeuvIkrfOsM5E3Tn9Hvd2ei8TQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
